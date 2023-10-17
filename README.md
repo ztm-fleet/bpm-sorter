@@ -2,7 +2,7 @@
 
 Spotify Playlist BPM Sorting Web Application
 
-Neri
-Tomoe
-Skywen
-Tanuki
+ - Neri
+ - Tomoe
+ - Skywen
+ - Tanuki
