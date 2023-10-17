@@ -1,5 +1,7 @@
 # bpm-sorter
+
 Spotify Playlist BPM Sorting Web Application
 
-Tomoe
-Skywen
+Neri\n
+Tomoe\n
+Skywen\n
